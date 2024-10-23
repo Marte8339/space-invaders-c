@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729635900 source:c:\users\talvez\desktop\pastas\programação\sistemas\c\space_invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
